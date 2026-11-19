@@ -1,0 +1,12 @@
+{
+    "Off|On|Automatic": "Uit|Aan|Automatisch",
+    "Start time": "Startuur",
+    "Start minute": "Startminuut",
+    "Watering time": "Beregeningsduur",
+    "Daily repetitions": "Dagelijkse herhalingen",
+    "Off|5mm|10mm|15mm|20mm|25mm|30mm": "Uit|5mm|10mm|15mm|20mm|25mm|30mm",
+    "Rain limit in the last 24 hours (mm)": "Regenlimiet afgelopen 24 uur (mm)",
+    "Rain limit in the next 24 hours (mm)": "Regenlimiet komende 24 uur (mm)",
+    "Soil_moisture_meter limit %": "Grenswaarde bodemvochtigheid %",
+    "Off|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%": "Uit|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%"
+}

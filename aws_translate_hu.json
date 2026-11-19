@@ -1,0 +1,12 @@
+{
+    "Off|On|Automatic": "Ki|Be|Automatikus",
+    "Start time": "Kezdés óra",
+    "Start minute": "Kezdés perc",
+    "Watering time": "Öntözés idő",
+    "Daily repetitions": "Napi ismétlődések",
+    "Off|5mm|10mm|15mm|20mm|25mm|30mm": "Ki|5mm|10mm|15mm|20mm|25mm|30mm",
+    "Rain limit in the last 24 hours (mm)": "Eső limit az elmúlt 24 órában (mm)",
+    "Rain limit in the next 24 hours (mm)": "Eső limit a következő 24 órában (mm)",
+    "Soil_moisture_meter limit %": "Talajnedvesség-mérő határérték %",
+    "Off|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%": "Ki|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%"
+}

@@ -1,0 +1,12 @@
+{
+    "Off|On|Automatic": "Vypnuto|Zapnuto|Automaticky",
+    "Start time": "Hodina spuštění",
+    "Start minute": "Minuta spuštění",
+    "Watering time": "Doba zavlažování",
+    "Daily repetitions": "Denní opakování",
+    "Off|5mm|10mm|15mm|20mm|25mm|30mm": "Vypnuto|5mm|10mm|15mm|20mm|25mm|30mm",
+    "Rain limit in the last 24 hours (mm)": "Limit srážek za posledních 24 hodin (mm)",
+    "Rain limit in the next 24 hours (mm)": "Limit srážek na příštích 24 hodin (mm)",
+    "Soil_moisture_meter limit %": "Limit vlhkosti půdy %",
+    "Off|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%": "Vypnuto|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%"
+}

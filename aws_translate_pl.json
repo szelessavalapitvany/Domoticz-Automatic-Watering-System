@@ -1,0 +1,12 @@
+{
+    "Off|On|Automatic": "Wył.|Wł.|Automatycznie",
+    "Start time": "Godzina rozpoczęcia",
+    "Start minute": "Minuta rozpoczęcia",
+    "Watering time": "Czas podlewania",
+    "Daily repetitions": "Powtórzenia dzienne",
+    "Off|5mm|10mm|15mm|20mm|25mm|30mm": "Wył.|5mm|10mm|15mm|20mm|25mm|30mm",
+    "Rain limit in the last 24 hours (mm)": "Limit opadów z ostatnich 24 godzin (mm)",
+    "Rain limit in the next 24 hours (mm)": "Limit opadów na kolejne 24 godziny (mm)",
+    "Soil_moisture_meter limit %": "Próg wilgotności gleby %",
+    "Off|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%": "Wył.|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%"
+}

@@ -1,0 +1,12 @@
+{
+    "Off|On|Automatic": "オフ|オン|自動",
+    "Start time": "開始時刻（時）",
+    "Start minute": "開始時刻（分）",
+    "Watering time": "散水時間",
+    "Daily repetitions": "1日の繰り返し回数",
+    "Off|5mm|10mm|15mm|20mm|25mm|30mm": "オフ|5mm|10mm|15mm|20mm|25mm|30mm",
+    "Rain limit in the last 24 hours (mm)": "過去24時間の降水量の上限 (mm)",
+    "Rain limit in the next 24 hours (mm)": "今後24時間の降水量の上限 (mm)",
+    "Soil_moisture_meter limit %": "土壌水分のしきい値 %",
+    "Off|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%": "オフ|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%"
+}

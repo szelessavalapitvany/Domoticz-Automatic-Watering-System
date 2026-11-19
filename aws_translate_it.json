@@ -1,0 +1,12 @@
+{
+    "Off|On|Automatic": "Spento|Acceso|Automatico",
+    "Start time": "Ora di inizio",
+    "Start minute": "Minuto di inizio",
+    "Watering time": "Durata irrigazione",
+    "Daily repetitions": "Ripetizioni giornaliere",
+    "Off|5mm|10mm|15mm|20mm|25mm|30mm": "Spento|5mm|10mm|15mm|20mm|25mm|30mm",
+    "Rain limit in the last 24 hours (mm)": "Limite pioggia nelle ultime 24 ore (mm)",
+    "Rain limit in the next 24 hours (mm)": "Limite pioggia nelle prossime 24 ore (mm)",
+    "Soil_moisture_meter limit %": "Limite umidità del suolo %",
+    "Off|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%": "Spento|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%"
+}

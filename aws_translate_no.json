@@ -1,0 +1,12 @@
+{
+    "Off|On|Automatic": "Av|På|Automatisk",
+    "Start time": "Starttime",
+    "Start minute": "Startminutt",
+    "Watering time": "Vanningstid",
+    "Daily repetitions": "Daglige gjentakelser",
+    "Off|5mm|10mm|15mm|20mm|25mm|30mm": "Av|5mm|10mm|15mm|20mm|25mm|30mm",
+    "Rain limit in the last 24 hours (mm)": "Regngrense siste 24 timer (mm)",
+    "Rain limit in the next 24 hours (mm)": "Regngrense neste 24 timer (mm)",
+    "Soil_moisture_meter limit %": "Grense for jordfuktighet %",
+    "Off|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%": "Av|5%|10%|15%|20%|25%|30%|35%|40%|45%|50%|55%|60%|65%|70%|75%|80%|85%|90%|95%"
+}
